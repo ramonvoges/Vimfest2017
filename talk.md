@@ -6,7 +6,7 @@ author: Ramon Voges
 
 First of all, I would like to thank Matthias for accepting my proposal and giving me the possibility to talk to all of you today!
 
-My name is Ramon Voges. I am not a developer or computer scientist, but a historian by profession, teaching at Paderborn University Early Modern History. And this is the first time I take part in a hackathon. With my talk I hope I can show that, although it is, as far as a I know, quite unusual for scholars of the humanities to attend a hackathon, this does not need to be so.
+My name is Ramon Voges. I am not a developer or computer scientist, but a historian by profession, teaching Early Modern History at Paderborn University. And this is the first time I take part in a hackathon. With my talk I hope I can show that, although it is, as far as a I know, quite unusual for scholars of the humanities to attend a hackathon, this does not need to be so.
 
 In order to explain why a historian of the Early Modern Times considers himself a great fan of Vim and Neovim, I will start with a short survey of how I ended up with that awesome piece of software.
 In a next step, I will describe some of Neovim's features I find most useful.
