@@ -4,14 +4,14 @@ date: 2017-09-23
 author: Ramon Voges
 ---
 
-First of all, I would like to thank Matthias for accepting my proposal and giving me the possibility to talk to all of you today!
+First of all, I would like to thank Matthias and the organisation team for giving me the possibility to talk to all of you today!
 
-My name is Ramon Voges. I am not a developer or computer scientist, but a historian by profession, teaching Early Modern History at Paderborn University. And this is the first time I take part in a hackathon. With my talk I hope I can show that, although it is, as far as a I know, quite unusual for scholars of the humanities to attend a hackathon, this does not need to be so.
+My name is Ramon Voges. I am not a developer or computer scientist, but a historian by profession, teaching Early Modern History at Paderborn University. And this is the first time I take part in a hackathon. With my talk I hope I can show in the next 15 min or so that, although it is, as far as a I know, quite unusual for scholars of the humanities to attend a hackathon, this does not need to be so.
 
 In order to explain why a historian of the Early Modern Times considers himself a great fan of Vim and Neovim, I will start with a short survey of how I ended up with that awesome piece of software.
 In a next step, I will describe some of Neovim's features I find most useful.
 After that I will give a concise overview of plug-ins I rely on during my day to day work.
-Finally, I will end with a short conclusion why advocates of the humanities should use Vim and Neovim as well.
+Finally, I will end with a short conclusion why advocates of the humanities should use Vim or Neovim as well.
 
 
 # My Journey to Vim
@@ -22,11 +22,11 @@ This changed dramatically the moment I began to do some research on Early Modern
 
 First I began with – horribile dictu – Emacs. I must admit, everything was fine for a while. True, Emacs was not easy to configure and it took some time until the editor was up and running. However, it worked for me.
 
-But then, one day, without warning, my configuration broke! I hadn't changed a thing, but out of nowhere Emacs refused to start and just showed me cryptic error messages. Since I had, by that time, to write my PhD thesis, I looked for a quick and dirty alternative. I was quite happy finding that Textmate had just become open source, so I switched to that editor. And again, I was quite contended.
+But then, one day, without warning, my configuration broke down! I hadn't changed a thing, but out of nowhere Emacs refused to start and just showed me cryptic error messages. Since I had, by that time, to write my PhD thesis, I looked for a quick and dirty alternative. I was quite happy finding that Textmate had just become open source, so I switched to that editor. And again, I was quite contended.
 
 After some time, a good friend pointed me to Sublime and I suddenly realised how Textmate had fallen behind. As I didn't want to use a commercial product I switched to Atom. In comparison with Textmate it was slow and an awful mess with all its different plug-ins and inconsistent settings. So after Atom had crushed and devoured a day's work of writing, I, again, looked for something better.
 
-In one of the many blog posts I read, one author recommended to enhance Atom with a plug-in that emulates Vim. So I began to wonder what everybody was so excited about when they wrote about Vim's different modes and how this revolutionized how they edited text.
+In one of the many blog posts I read, one author recommended to enhance Atom with a plug-in that emulates Vim. So I began to wonder what everybody was so excited about when they wrote about Vim's different modes and how this revolutionized the way they edited text.
 
 
 # Vim as a DSL
@@ -59,7 +59,7 @@ But, again, this is nothing new to you. So I will continue by talking over some 
 
 ## LaTeX
 
-I would like to start my short survey with LaTeX, since this software originally introduced me to real editors.
+I would like to start my short survey with LaTeX, for this software originally introduced me to real editors.
 
 Since I switched to Neovim I use `vimtex`, a lightwight and comprehensive plug-in for most of the things you would like to do with your LaTeX files. I like especially the way it can open a Table of Contents and compile your file in the background. These are my settings:
 
